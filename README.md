@@ -14,9 +14,15 @@ this code is inspired from the works of [Dual Pixel™](https://www.uplabs.com/i
 
 ![Alt text](https://github.com/chawkiAmrouche/Notifications/blob/master/preview.jpg)
 
+## Libraries
+
+in this project was realised using:
+
+[LoadingButtonAndroid] (https://github.com/leandroBorgesFerreira/LoadingButtonAndroid) library.
+
 ## Built With
 
-* [AndroidStudio](https://developer.android.com/studio/index.html) - The web software we used
+* [AndroidStudio](https://developer.android.com/studio/index.html) - The software we used
 
  
  
