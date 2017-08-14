@@ -6,7 +6,7 @@ Android implementation of Notication Screen concept
 
 ## motivation
 
-As I seek to make beautiful designs come alive into Code format Foor Order Traking App design is the first ste in many coming creative designs
+As I seek to make beautiful designs come alive into Code format 
 
 ### Inspiration
 
